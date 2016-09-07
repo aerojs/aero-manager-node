@@ -1,0 +1,21 @@
+{
+	"name": "aero-manager-node",
+	"version": "0.0.1",
+	"main": "index.js",
+	"description": "App becomes a node for Aero Manager.",
+	"dependencies": {},
+	"keywords": [
+		"aero",
+		"manager"
+	],
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/aerojs/aero-manager-node"
+	},
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "https://blitzprog.org"
+	},
+	"license": "GPL-3.0"
+}
